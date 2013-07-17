@@ -1,0 +1,15 @@
+== Embedded Argos Web Example
+
+This is a quick and dirty proof-of-concept for embedding Evisions' ArgosWeb
+directly into a web browser using an iFrame.
+
+This example uses the latest internal development builds and cannot be
+implemented on any releases prior to 4.0. If you like what you are seeing
+here and would like more information, please contact sales@evisions.com.
+
+== Getting Started
+
+1. At the command prompt, start a Rails server:
+       <tt>rails server</tt>
+
+2. Go to http://localhost:3000/ and to view the site.
