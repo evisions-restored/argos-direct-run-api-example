@@ -7,7 +7,7 @@ class DashboardController < ApplicationController
     # settings
     host             = 'labs.evisions.com'
     port             = 80
-    datablock        = 5994
+    datablock        = 5995
     username         = 'webdemo'
     password         = 'webdemo'
     sessionParam     = "sessionid"
