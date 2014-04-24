@@ -58,7 +58,7 @@ class DashboardController < ApplicationController
       end
      
       token = data['data']['Token']
-      @url = "https://#{host}/Argos/AWV/#!DataBlock=#{datablock}&Username=#{username}&Token=#{token}"
+      @url = "https://#{host}/Argos/AWV/#DataBlock=#{datablock}&Username=#{username}&Token=#{token}"
     end    
   end
 end
